@@ -1,3 +1,105 @@
 h2 {
-    padding: 20 20 20 20;
+    font-size: 44px;
+    padding-left: 220px;
+    padding-right: 453px;
+    text-align: center;
+    margin-bottom: 1px;
+
+}
+
+hr{
+    height: 3px;
+    background-color: rgb(141 215 218);
+    border: none;
+    width: 447px;
+    margin-left: 329px;
+}
+.vl{
+    border-left: 2px solid rgb(141 215 218);
+    height: 19px;
+    position: absolute;
+    left: 37%;
+}
+
+ul{
+    list-style-type: none;
+   
+}
+#li1{
+    float: left;
+    width: 30%;
+    margin-left: 306px;
+    float: left;
+    width: 14%;
+    margin-top: -7px;
+    margin-right: -29px;
+}
+#li2{
+    float: left;
+    width: 40%;
+    margin-top: -7px;
+    margin-left: 16px;
+}
+#image{
+    height: 116px;
+    width: 99px;
+    float: right;
+    margin-right: 202Px;
+    margin-top: -83px
+}
+
+#career{
+    float: right;
+    width: 18%;
+    margin-right: -246px;
+    margin-top: 68px
+
+}
+.rectangle{
+ height: 323px;
+  width: 779px;
+  background-color: rgb(141 215 218);
+  margin-top: 109px;
+}
+.edu{  
+    font-size: 21px;
+    padding-left: 214px;
+    padding-top: 6px;
+    margin-left: 13px;
+    margin-top: -251px;
+    float: left;
+
+}
+#personalinfoicon{
+    width: 24px;
+    height: 25px;
+    float: left;
+    margin-left: 169px;
+    margin-top: -222px;
+
+}
+
+#eduicon{
+    width: 31px;
+    height: 21px;
+    float: left;
+    margin-left: 168px;
+    margin-top: -169px;
+}
+#hobbyicon{
+    width: 33px;
+    height: 27px;
+    float: left;
+    margin-left: 168px;
+    margin-top: -127px;
+}
+
+.info{
+    font-size: 20px;
+    margin-left: 35px;
+}
+.contact{
+    font-size: 10px;
+    padding: 20px;
+    
 }

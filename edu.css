@@ -1,0 +1,29 @@
+
+
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-size: 20px;
+    
+}
+table{margin: auto;
+    width: 59%;
+    margin-left: 92px;
+    margin-top: 157px;
+}
+th, td{
+    height: 50px;
+    padding: 12px;
+   
+}
+
+th{
+    background-color: rgb(141 215 218);
+    
+}
+
+.back{
+    float: left;
+    margin-top: 350px;
+    margin-left: 100px;
+}
